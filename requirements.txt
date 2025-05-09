@@ -1,0 +1,13 @@
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+Pillow>=8.2.0
+
+tensorflow>=2.9.0
+scikit-learn>=1.0
+imblearn>=0.9.0 
+
+pydot>=1.4.2
+graphviz>=0.17
+
+typing_extensions>=4.0.0
